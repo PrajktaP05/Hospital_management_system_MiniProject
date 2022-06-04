@@ -32,7 +32,7 @@ aPassword varchar(10) not null
 );
 
 insert into admin values
-('harshtyagi','harsh@01');
+('prajktapatil','Praju@0520');
 
 
 create table apn_info 
